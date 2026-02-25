@@ -1,16 +1,3 @@
-/**
- * =========================================================
- * USE CASE 1 - Application Entry & Welcome Message
- * PalindromeChecker App
- * =========================================================
- *
- * Goal:
- * Display application name and version when program starts.
- *
- * @author Thamaraikannan G
- * @version 1.0
- */
-
 public class PalindromeCheckerApp {
 
     // Application constants
